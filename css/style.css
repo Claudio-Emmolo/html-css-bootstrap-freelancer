@@ -1,0 +1,11 @@
+/* GENERAL */
+section.green{
+    height: 500px; /*<<<--- DA RIMUOVERE*/
+    background-color: #1ABC9C;
+}
+
+.jumbo-content{ /*<<<--- DA RIMUOVERE*/
+    height: 450px;
+    width: 100%;
+    background-color: red;
+}
