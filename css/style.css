@@ -9,3 +9,9 @@ section.green{
     width: 100%;
     background-color: red;
 }
+
+.portfolio-card{
+    height: 300px;
+    background-color: blue;
+    border: 3px solid violet;
+}
