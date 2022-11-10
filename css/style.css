@@ -18,8 +18,14 @@ section.green{
 }
 
 /* ----------FOOTER--------- */
+footer{
+    color: white;
+}
 
 section#address{
-    color: white;
     background-color: #3A546D;
+}
+
+section#copyright{
+    background-color: #2C3E50;
 }
