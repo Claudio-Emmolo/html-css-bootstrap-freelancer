@@ -2,6 +2,7 @@
 section.green{
     height: 500px; /*<<<--- DA RIMUOVERE*/
     background-color: #1ABC9C;
+    color: white;
 }
 
 .jumbo-content{ /*<<<--- DA RIMUOVERE*/
@@ -14,4 +15,11 @@ section.green{
     height: 300px;
     background-color: blue;
     border: 3px solid violet;
+}
+
+/* ----------FOOTER--------- */
+
+section#address{
+    color: white;
+    background-color: #3A546D;
 }
