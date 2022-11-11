@@ -25,19 +25,6 @@ header{
 }
 
 
-span.navbar-toggler-icon:hover{
-    color: rgb(138, 138, 138);
-}
-
-header a:hover{
-    color: white;
-}
-
-.nav-link:hover{
-    color: rgb(138, 138, 138);
-}
-
-
 /* ----------FOOTER--------- */
 footer{
     color: white;
