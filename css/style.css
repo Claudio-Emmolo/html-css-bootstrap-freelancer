@@ -15,6 +15,28 @@ section.green{
     background-color: blue;
     border: 3px solid violet;
 }
+/* ----------HEADER--------- */
+header{
+    background-color: #2C3E50;
+}
+
+.nav-color *{
+    color: white;
+}
+
+
+span.navbar-toggler-icon:hover{
+    color: rgb(138, 138, 138);
+}
+
+header a:hover{
+    color: white;
+}
+
+.nav-link:hover{
+    color: rgb(138, 138, 138);
+}
+
 
 /* ----------FOOTER--------- */
 footer{
