@@ -4,10 +4,8 @@ section.green{
     color: white;
 }
 
-.jumbo-content{ /*<<<--- DA RIMUOVERE QUANDO INSERISCO CONTENUTO*/
-    height: 450px;
-    width: 100%;
-    background-color: red;
+.jumbo-content img{
+    height: 400px;
 }
 
 .portfolio-card{
@@ -15,6 +13,15 @@ section.green{
     background-color: blue;
     border: 3px solid violet;
 }
+
+/* START SEPARATOR */
+div.up-score{
+    width: 300px;
+    height: 3px;
+    background-color: white;
+}
+
+
 /* ----------HEADER--------- */
 header{
     background-color: #2C3E50;
