@@ -34,6 +34,14 @@ header{
     color: white;
 }
 
+/* ----------MAIN--------- */
+form input,
+form textarea{
+    margin-bottom: 2rem;
+    border: none;
+    border-bottom: 2px solid #2C3E50;
+}
+
 
 /* ----------FOOTER--------- */
 footer{
